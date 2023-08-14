@@ -359,3 +359,6 @@ body{
 	letter-spacing: 0px;
 	color: #cf4444;
 }
+.icon-more:hover{
+    color: #54b196;
+}
