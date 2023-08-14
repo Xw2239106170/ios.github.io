@@ -361,4 +361,5 @@ body{
 }
 .icon-more:hover{
     color: #54b196;
+    cursor: pointer;
 }
